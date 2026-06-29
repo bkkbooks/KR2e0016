@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2e0016/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR2e0016/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 弔伐錄
+  date: '2015-09-12 00:41:02.867898'
+  source:
+    repository: kanripo
+    path: KR2e0016
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2e0016_000-SBCK.yaml, hash: 'sha256:a3e0378e3ea35c88c4c78e39ae83005009f58a2ec59cb34ff2f7b2d0df2728bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2e0016_000-SBCK.markers.yaml, hash: 'sha256:4f45899b76307e259b443103723911b706857211f359a0e19117f57b640e5ef5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2e0016_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 55211
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:d528d3c4d38eaa775e150e1ed117c9ac4a22460ecba26a89c248abacf106ebaa

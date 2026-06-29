@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR2e0016/v1
+canonical_location: https://kanripo.org/bkk/KR2e0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 弔伐錄
+  date: '2015-09-12 00:41:02.867898'
+  source:
+    repository: kanripo
+    path: KR2e0016
+  base_edition: SBCK
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2e0016_000.yaml, hash: 'sha256:ccb703c46865c77d688aedf673669bb79f515fb925787c7b77957462ffd1f88b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2e0016_000.markers.yaml, hash: 'sha256:71e00cf7606283b95d2839b1d157180095df4af9702042227b5bbfc232db3408'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2e0016_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 55211
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:08bb5634c1abbbbd08ddc257f1a2ab4edf8ff27f548a987eba80d57514b92857
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
