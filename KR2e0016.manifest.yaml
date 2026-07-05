@@ -22,9 +22,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2e0016_000.yaml, hash: 'sha256:ccb703c46865c77d688aedf673669bb79f515fb925787c7b77957462ffd1f88b'}
+  - {seq: 0, filename: KR2e0016_000.yaml, hash: 'sha256:f7c30db2476af5a09a7677ce07f4e1b705e026b901bb1ceadb7f7306e0e549ad'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2e0016_000.markers.yaml, hash: 'sha256:71e00cf7606283b95d2839b1d157180095df4af9702042227b5bbfc232db3408'}
+  - {seq: 0, role: markers, filename: assets/KR2e0016_000.markers.yaml, hash: 'sha256:1f9ee5a9237fbbabce68edd8b4d10b009f29f99b95574b698e341b8bf7dc5d80'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,7 +36,4 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:08bb5634c1abbbbd08ddc257f1a2ab4edf8ff27f548a987eba80d57514b92857
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:04834addd17cae827aabc7ca1eaf07b4aca4848806ef962affdbc1b2ec3d44d8
